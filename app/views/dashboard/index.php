@@ -87,7 +87,7 @@
         <div class="dashboard-content">
             <h2>Welcome to Your Dashboard, PLN Person!</h2>
             <p>Tentang</p>
-            <a href="https://github.com/MhdRizky7/PBWL_Per10.git" class="read-more-button">Read More</a>
+            <a href="https://github.com/MhdRizky7/Project_PBWL_Pert10.git" class="read-more-button">Read More</a>
             <div class="dashboard-text">
                 <p>About PLN Listrik: PLN (Perusahaan Listrik Negara) is the state-owned electricity company in Indonesia, providing electricity services to millions of people. With a commitment to delivering reliable and sustainable energy, PLN plays a crucial role in powering homes, businesses, and communities across the nation.</p>
             </div>
